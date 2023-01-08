@@ -76,9 +76,7 @@ print ("[-[ THIS T00L IS CREATE BY
 88""""88'    ""     `Y8  `8b     d8'  ""     `Y8  88P'   `"8a  
 88    `8b    ,adPPPPP88   `8b   d8'   ,adPPPPP88  88       88  
 88     `8b   88,    ,88    `8b,d8'    88,    ,88  88       88  
-88      `8b  `"8bbdP"Y8      "8"      `"8bbdP"Y8  88       88  
-                                                               
-                                                                 ]-]")
+88      `8b  `"8bbdP"Y8      "8"      `"8bbdP"Y8  88       88  ]-]")
 
 emailx=str(input("➣Enter email : "))
 
