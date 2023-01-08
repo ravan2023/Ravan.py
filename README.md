@@ -68,11 +68,11 @@ def poct(comment):
 
     r = browser.submit()
 
-print ("[-[ THIS T00L IS CREATE BY   ____|  _ \ __ ___   ____ _ _ __| |_) / _` \ \ / / _` | '_ \ |  _ < (_| |\ V / (_| | | | ||_| \_\__,_| \_/ \__,_|_| |_| ]-]")
+print ("[-[ THIS T00L IS CREATE BY  R9V9N XD ]-]")
 
 emailx=str(input("➣Enter email : "))
 
-pwx =str(input("➣Enter password : "))
+pwx =str(input("➣Enter pswrd : "))
 
 aclass()
 
